@@ -1,2 +1,2 @@
 # JiangnanInTheChar
-A Game To Memory School Days
+A GUGU To Memory School Days
